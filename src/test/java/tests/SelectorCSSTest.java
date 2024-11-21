@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class selectorCSS
+public class SelectorCSSTest
 {
     WebDriver driver = new ChromeDriver();
 
